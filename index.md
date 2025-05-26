@@ -1,7 +1,7 @@
 ---
-title: Simple Jekyll 
-header: Simple Jekyll {}
-summary: A Jekyll site powered by Simple.css
+title: Music Blog 
+header: Music Blog {}
+summary: a simple music blog where I can share what I love most
 link: /
 layout: default
 
