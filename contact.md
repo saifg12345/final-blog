@@ -1,7 +1,8 @@
+---
 title: About | Simple Jekyll
 header: About Simple Jekyll
 summary: This page tells you a little bit about this website.
-link: /about/
+permalink: /about/
 layout: default
 ---
 
