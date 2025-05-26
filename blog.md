@@ -3,7 +3,7 @@ layout: default
 # Blog | Simple Jekyll
 header: Blog
 summary: Where the magic happens - this is the blog!
-link: /blog/
+link: /2025/05/25/saif.md
 ---
 
 {% for post in site.posts %}
