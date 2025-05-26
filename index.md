@@ -1,5 +1,5 @@
 ---
-title: Simple Jekyll - A Jekyll site powered by Simple.css
+title: Simple Jekyll 
 header: Simple Jekyll {}
 summary: A Jekyll site powered by Simple.css
 link: /home/
