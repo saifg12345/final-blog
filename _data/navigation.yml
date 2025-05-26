@@ -1,8 +1,8 @@
 - name: Home
-  link: /final-blog/
+  link: /blog/
 - name: Blog
-  link: /final-blog/blog/
+  link: /blog/
 - name: About
-  link: /final-blog/about/
+  link: /about/
 - name: Contact
-  link: /final-blog/contact/
+  link: /contact/
