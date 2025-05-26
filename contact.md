@@ -2,7 +2,7 @@
 title: About | Simple Jekyll
 header: About Simple Jekyll
 summary: This page tells you a little bit about this website.
-permalink: /final-blog/about/
+permalink: /final-blog/contact/
 layout: default
 ---
 
