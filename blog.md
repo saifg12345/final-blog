@@ -1,7 +1,6 @@
 ---
 layout: default
 # Blog | Simple Jekyll
-title: Blog
 header: Blog
 summary: Where the magic happens - this is the blog!
 permalink: /blog/
