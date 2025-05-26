@@ -7,6 +7,6 @@ layout: default
 
 ---
 
-This is a simple webpage that has been handbuilt by [Kev Quirk](https://kevq.uk) using the Jekyll static site generator and [Simple.css](https://simplecss.org).
+Hi, my name is Saif Garasia and welcome to my music blog! I'll be reviewing new and old music albums and singles weekly and writing my personal thoughts as well as my honest take on them. I'll also be covering some of my favorite albums, genres, and lyrics and potentially some side tangents (stay tuned!) If you'd like to take a look at the source code behind this blog, go on over to (https://github.com/saifg12345/final-blog) if you're interested. Massive thanks to Kev Quirk for the process behind this blog (a lot of resources come from him, check him out at (https://github.com/kevquirk), does some amazing work!)
 
-Please feel free to take a look around. If you're interested, you can find the source code for this site [on GitHub](https://github.com/kevquirk/jekyll-simple.css).
+
