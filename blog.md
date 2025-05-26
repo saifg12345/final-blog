@@ -1,10 +1,10 @@
 ---
-layout: default
 # Blog | Simple Jekyll
-title: Simple Blog
 header: Blog
 summary: Where the magic happens - this is the blog!
 permalink: /blog/
+layout: default
+
 ---
 
 {% for post in site.posts %}
