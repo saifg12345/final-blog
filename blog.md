@@ -3,7 +3,7 @@ layout: default
 # Blog | Simple Jekyll
 header: Blog
 summary: Where the magic happens - this is the blog!
-permalink: /blog/
+permalink: /final-blog/blog/
 ---
 
 {% for post in site.posts %}
